@@ -1,1 +1,1 @@
-# vdsite-seed
+# vendor
